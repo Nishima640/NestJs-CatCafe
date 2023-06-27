@@ -1,0 +1,32 @@
+{
+  "1": {
+    "customer_name": "Nishima Sitaula",
+    "customer_id": "1",
+    "customer_order": "Americano",
+    "order_quantity": "1"
+  },
+  "2": {
+    "customer_name": "Sanam Maharjan",
+    "customer_id": "2",
+    "customer_order": "Iced Coffee",
+    "order_quantity": "2"
+  },
+  "3": {
+    "customer_name": "Mansij Ranjit",
+    "customer_id": "3",
+    "customer_order": "Espresso,Latte",
+    "order_quantity": "1"
+  },
+  "4": {
+    "customer_name": "Tirtha Bhattarai",
+    "customer_id": "4",
+    "customer_order": "Iced Mocha Latte",
+    "order_quantity": "2"
+  },
+  "5": {
+    "customer_name": "Bhim Rajbanshi",
+    "customer_id": "5",
+    "customer_order": "Cappuccino",
+    "order_quantity": "1"
+  }
+}
